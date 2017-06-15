@@ -1,0 +1,142 @@
+compañia,tipo_pieza,tipo_juego,nombre,tiempo,tiempo_hablando,tiempo_montaje,tiempo_trailer,tiempo_gameplay+cutscenes,tiempo_gameplay_vivo,tiempo_show_musica_baile_vivo,tiempo_animacion,tiempo_humor,tiempo_video_doc,tipo_exclusividad,momentos_verguenza,tiempo_gameplay,tiempo_gameplay_new
+EA,intro,#na,tambores,1,0,0,0,0,0,1,0,0,0,#na,0,0,0
+EA,juego,franquicia,Madden 18,1,0,0,1,0,0,0,0,0,0,multi,0,0,0
+EA,company_pitch,#na,intro_conf,3.93,3.93,0,0,0,0,0,0,0,0,#na,0,0,0
+EA,juego,franquicia,Battlefield 1,5.95,3.4,1.45,0.87,0,0,0,0,0.23,0,multi,0,0.9,0.1
+EA,e_sports,franquicia,Varios,1.18,1.18,0,0,0,0,0,0,0,0,multi,1,0,0
+EA,e_sports,franquicia,Varios,1.6,0,1.6,0,0,0,0,0,0,0,multi,0,0,0
+EA,juego,franquicia,Fifa 18,6.77,3.52,1.75,1.5,0,0,0,0,0,0,multi,0,0,0
+EA,juego,franquicia,Need for Speed Payback,5.64,2.57,0,3.07,0,0,0,0,0,0,multi,1,0,2.18
+EA,company_pitch,#na,EA Originals,0.85,0.85,0,0,0,0,0,0,0,0,#na,0,0,0
+EA,juego,nuevo,A way out,7.35,3.62,0,1.58,0,0,0,0,0,2.15,multi,1,0,1.67
+EA,company_pitch,#na,Seeds division de EA,1.9,1.9,0,0,0,0,0,0,0,0,#na,0,0,0
+EA,company_pitch,#na,Scorpio,0.72,0.72,0,0,0,0,0,0,0,0,#na,0,0,0
+EA,juego,nuevo,Anthem,1.43,0.63,0,0.8,0,0,0,0,0,0,multi,0,0,0
+EA,juego,franquicia,NBA live 18,5,1.8,0,0.88,0,0.77,0,0,0,1.55,multi,0,0,0.77
+EA,company_pitch,#na,Play to give,1.85,1.85,0,0,0,0,0,0,0,0,#na,0,0,0
+EA,juego,franquicia,Star Wars Battlefront II,31.36,10.34,2.93,1.82,0,16.27,0,0,0,0,multi,1,0,16.27
+EA,company_pitch,#na,despedida,0.62,0.62,0,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,company_pitch,#na,presentacion,0.77,0,0.77,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,company_pitch,#na,Xbox one X,2.17,0,2.17,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,hardhare,#na,Xbox one X,6.92,6.92,0,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,juego,franquicia,Forza 8,5.32,3.7,0,1.62,0,0,0,0,0,0,exclusivo,0,0,0
+Microsoft,company_pitch,#na,presentacion,1.97,1.97,0,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,juego,franquicia,Metro Exodus,4.88,0,0,4.88,0,0,0,0,0,0,multi,0,0,4.03
+Microsoft,juego,franquicia,Assassins Creed Origins,8.83,1.7,0,1.88,5.25,0,0,0,0,0,multi,0,0,4.23
+Microsoft,company_pitch,#na,presentacion,0.7,0.7,0,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,juego,nuevo,Playerunknow's Battlegrounds,3.07,1.2,0,1.87,0,0,0,0,0,0,exclusivo,0,0.85,0
+Microsoft,juego,nuevo,Deep Rock Galactic,1.2,0,0,1.2,0,0,0,0,0,0,lanzamiento exclusivo,0,0,0.58
+Microsoft,juego,nuevo,State of Decay 2,3.47,0,0,3.47,0,0,0,0,0,0,exclusivo,0,0,0.42
+Microsoft,juego,nuevo,The Darwin Project,2.1,0,0,0,2.1,0,0,0,0,0,lanzamiento exclusivo,1,0,0.77
+Microsoft,juego,viejo,Minecraft,3.71,1.68,0,2.03,0,0,0,0,0,0,multi,1,1.03,0
+Microsoft,company_pitch,#na,presentacion,0.78,0.78,0,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,juego,franquicia,Dragon Ball FighterZ,1.61,0.18,0,1.43,0,0,0,0,0,0,multi,0,0,0.6
+Microsoft,juego,nuevo,Black Desert,2.12,0,0,2.12,0,0,0,0,0,0,lanzamiento exclusivo,0,0,0.78
+Microsoft,juego,nuevo,The Last Night,1.38,0,0,1.38,0,0,0,0,0,0,lanzamiento exclusivo,0,0,0
+Microsoft,juego,nuevo,The Artful Escape,1.23,0,0,1.23,0,0,0,0,0,0,lanzamiento exclusivo,0,0,0.65
+Microsoft,juego,nuevo,Code Vein,1.05,0,0,1.05,0,0,0,0,0,0,multi,0,0,0.19
+Microsoft,company_pitch,#na,presentacion,0.48,0.48,0,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,juego,nuevo,Sea of Thieves,8.88,0.2,0,0,8.68,0,0,0,0,0,exclusivo,0,0,8.58
+Microsoft,juego,nuevo,Tacoma,0.63,0,0,0.63,0,0,0,0,0,0,lanzamiento exclusivo,0,0,0.63
+Microsoft,juego,nuevo,Super Lucky's Tale,2.72,0,0,2.72,0,0,0,0,0,0,exclusivo consola,0,0,1.05
+Microsoft,juego,viejo,Cuphead,0.87,0,0,0.87,0,0,0,0,0,0,exclusivo consola,0,0,0.65
+Microsoft,juego,franquicia,Crackdown 3,2.63,0,0,2.63,0,0,0,0,0,0,exclusivo,0,0,0.22
+Microsoft,juego,#na,varios,0.25,0,0.25,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,juego,nuevo,Osiris New Dawn,0.07,0,0,0,0.07,0,0,0,0,0,multi,0,0.07,0
+Microsoft,juego,nuevo,Raiders of the Broken Planet,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,nuevo,Unruly Heroes,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0,0.08
+Microsoft,juego,viejo,Path of Exile,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,viejo,Battlerite,0.04,0,0,0,0.04,0,0,0,0,0,multi,0,0.04,0
+Microsoft,juego,nuevo,Surviving Mars,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,nuevo,Fable Fortune,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,viejo,Observer,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,nuevo,Robocraft Infinity,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0,0.08
+Microsoft,juego,nuevo,Dunk Lords,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0,0.08
+Microsoft,juego,viejo,Minion Masters,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,viejo,Braw Out,0.04,0,0,0,0.04,0,0,0,0,0,multi,0,0.04,0
+Microsoft,juego,nuevo,Ooblets,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0,0.08
+Microsoft,juego,viejo,Dark and Light,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,nuevo,Strange Brigade,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,nuevo,Riverbond,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,nuevo,Hello Neighbor,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,nuevo,Shift,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,juego,nuevo,Conan Exiles,0.08,0,0,0,0.08,0,0,0,0,0,multi,0,0.08,0
+Microsoft,company_pitch,#na,presentacion,1.03,1.03,0,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,juego,nuevo,Ashen,1.83,0.13,0,1.7,0,0,0,0,0,0,lanzamiento exclusivo,0,0,0.21
+Microsoft,juego,franquicia,Life is Strange: Before The Storm,1.75,0,0,1.75,0,0,0,0,0,0,multi,0,0,1.53
+Microsoft,juego,franquicia,Shadow of War,7.12,0,0,0,7.12,0,0,0,0,0,multi,0,0,4.09
+Microsoft,juego,franquicia,Ori and the Will of the Wisps,2.62,0,0,2.62,0,0,0,0,0,0,exclusivo,0,0,0
+Microsoft,company_pitch,#na,Retrocompatibilidad,2.03,2.03,0,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,company_pitch,#na,Xbox one X,1.2,1.2,0,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,company_pitch,#na,presentacion,1.37,1.37,0,0,0,0,0,0,0,0,#na,0,0,0
+Microsoft,juego,nuevo,Anthem,9,2.13,0,0,6.87,0,0,0,0,0,multi,0,0,4.63
+Bethesda,company_pitch,#na,presentacion,3.03,0,3.03,0,0,0,0,0,0,0,#na,0,0,0
+Bethesda,company_pitch,#na,Animaciones (Bethesdaland),0.63,0,0,0,0,0,0,0.63,0,0,#na,0,0,0
+Bethesda,company_pitch,#na,presentacion,1.95,1.95,0,0,0,0,0,0,0,0,#na,0,0,0
+Bethesda,company_pitch,#na,Realidad Virtual,0.45,0.45,0,0,0,0,0,0,0,0,#na,0,0,0
+Bethesda,juego,franquicia,Doom VFR,1.32,0,0,1.32,0,0,0,0,0,0,multi,0,1,0
+Bethesda,juego,franquicia,Fallout 4 VR,1.25,0,0,1.25,0,0,0,0,0,0,multi,0,1.18,0
+Bethesda,company_pitch,#na,Animaciones (Bethesdaland),1,0,0,0,0,0,0,1,0,0,#na,0,0,0
+Bethesda,juego,franquicia,The Elder Scrolls Online: Morrowind,2.1,0,1.5,0.6,0,0,0,0,0,0,multi,0,0,0.13
+Bethesda,company_pitch,#na,Animaciones (Bethesdaland),0.75,0,0,0,0,0,0,0.75,0,0,#na,0,0,0
+Bethesda,company_pitch,#na,Creation Club,1.2,0,1.2,0,0,0,0,0,0,0,#na,0,0,0
+Bethesda,company_pitch,#na,Animaciones (Bethesdaland),0.37,0,0,0,0,0,0,0.37,0,0,#na,0,0,0
+Bethesda,juego,franquicia,The Elder Scrolls Legends Heroes of Skyrim,2.35,0,0,2.35,0,0,0,0,0,0,multi,0,0.16,0
+Bethesda,company_pitch,#na,Animaciones (Bethesdaland),0.4,0,0,0,0,0,0,0.4,0,0,#na,0,0,0
+Bethesda,juego,franquicia,The Elder Scrolls Skyrim Switch,1.03,0,0,1.03,0,0,0,0,0,0,multi,0,0.6,0
+Bethesda,company_pitch,#na,Animaciones (Bethesdaland),0.53,0,0,0,0,0,0,0.53,0,0,#na,0,0,0
+Bethesda,dlc,franquicia,Dishonored Death of the Outsider,1.62,0,0,1.62,0,0,0,0,0,0,multi,0,0,0
+Bethesda,company_pitch,#na,Animaciones (Bethesdaland),0.72,0,0,0,0,0,0,0.72,0,0,#na,0,0,0
+Bethesda,juego,franquicia,Quake Champions,2.45,0,2.45,0,0,0,0,0,0,0,multi,0,0,0.9
+Bethesda,company_pitch,#na,Animaciones (Bethesdaland),0.25,0,0,0,0,0,0,0.25,0,0,#na,0,0,0
+Bethesda,juego,franquicia,The Evil Whithin 2,4.5,0,0,4.5,0,0,0,0,0,0,multi,0,0,0.25
+Bethesda,company_pitch,#na,Animaciones (Bethesdaland),0.47,0,0,0,0,0,0,0.47,0,0,#na,0,0,0
+Bethesda,juego,franquicia,Wolfenstein The New Colossus,8.42,0,0,8.42,0,0,0,0,0,0,multi,0,0,0.98
+Ubisoft,company_pitch,#na,presentacion,0.37,0,0.37,0,0,0,0,0,0,0,#na,0,0,0
+Ubisoft,juego,franquicia,Mario + Rabbids Kingdom Battle,14.97,7.43,0,2.1,4.69,0,0,0.75,0,0,exclusivo,0,0,4.55
+Ubisoft,juego,franquicia,Assasins Creed Origins,5.21,2.67,,1.67,0,0.87,0,0,0,0,multi,0,0,0.87
+Ubisoft,juego,franquicia,The Crew 2,8.79,2.27,0,2.82,3.7,0,0,0,0,0,multi,0,0,0.65
+Ubisoft,juego,franquicia,South Park: The Fractured But Whole,1.8,0,0,1.8,0,0,0,0,0,0,multi,0,0,0
+Ubisoft,juego,nuevo,Transference,2.28,0,0,2.28,0,0,0,0,0,0,multi,0,0,0
+Ubisoft,juego,nuevo,Skull & Bones,11.73,2.83,0,2.9,6,0,0,0,0,0,multi,0,0,3.7
+Ubisoft,juego,franquicia,Just Dance,3.12,0,0,0,0,0,3.12,0,0,0,multi,0,0,0
+Ubisoft,juego,franquicia,South Park Phone Destroyer,1.13,0,0,1.13,0,0,0,0,0,0,multi,0,0,0.53
+Ubisoft,juego,nuevo,Starlink Battle for Atlas,3.88,1.58,0,2.3,0,0,0,0,0,0,multi,0,0,0
+Ubisoft,dlc,franquicia,Steep Road to the Olympics,3.11,1.73,0,1.38,0,0,0,0,0,0,multi,0,0,0
+Ubisoft,juego,franquicia,Far Cry 5,5.38,1.3,0,1.2,2.88,0,0,0,0,0,multi,0,0,2.7
+Ubisoft,juego,franquicia,Beyond Good & Evil 2,8.48,4.3,0,4.18,0,0,0,0,0,0,multi,0,0,0
+Sony,intro,#na,intro_musica,2.5,0,0,0,0,0,2.5,0,0,0,#na,0,0,0
+Sony,juego,franquicia,Uncharted: The Lost Legacy,2.17,0,0,2.17,0,0,0,0,0,0,exclusivo,0,0,0
+Sony,dlc,franquicia,Horizon Zero Dawn: The Frozen Wilds,1.65,0,0,1.65,0,0,0,0,0,0,exclusivo,0,0,0
+Sony,juego,nuevo,Days Gone,7.27,0,0,0,7.27,0,0,0,0,0,exclusivo,0,0,5.42
+Sony,company_pitch,#na,marca Playstation,3.57,3.57,0,0,0,0,0,0,0,0,#na,0,0,0
+Sony,juego,franquicia,Monster Hunter World,3.45,0,0,0,3.45,0,0,0,0,0,multi,0,0,2.48
+Sony,juego,franquicia,Shadow Of The Colossus Remastered,1.67,0,0,1.67,0,0,0,0,0,0,exclusivo,0,0,0.62
+Sony,juego,franquicia,Marvel vs Capcom Infinite,2.4,0,0,2.4,0,0,0,0,0,0,multi,0,0,0
+Sony,juego,franquicia,Call Of Duty WWII,2.95,0,0,2.95,0,0,0,0,0,0,multi,0,0,0.82
+Sony,juego,franquicia,The Elder Scrolls Skyrim VR,1.55,0,0,1.55,0,0,0,0,0,0,multi,0,0.68,0
+Sony,juego,nuevo,Starchild,1.88,0,0,1.88,0,0,0,0,0,0,?,0,0,0.33
+Sony,juego,nuevo,The Inpatient,1.07,0,0,1.07,0,0,0,0,0,0,exclusivo,0,0,0.45
+Sony,juego,franquicia,Final Fantasy XV: Monster of the Deep,0.77,0,0,0.77,0,0,0,0,0,0,#na,0,0,0.52
+Sony,juego,nuevo,Bravo Team,0.78,0,0,0.78,0,0,0,0,0,0,exclusivo,0,0,0.33
+Sony,juego,nuevo,Moss,1.85,0,0,1.85,0,0,0,0,0,0,#na,0,0,0.37
+Sony,juego,franquicia,God of War IV,5.8,0,0,5.8,0,0,0,0,0,0,exclusivo,0,0,0.84
+Sony,juego,nuevo,Detroit: Become Human,5.98,0,0,5.98,0,0,0,0,0,0,exclusivo,0,0,0.58
+Sony,juego,franquicia,Destiny 2,2.62,0,0,2.62,0,0,0,0,0,0,multi,0,0,0.5
+Sony,company_pitch,#na,marca Playstation,1.12,1.12,0,0,0,0,0,0,0,0,#na,0,0,0
+Sony,juego,franquicia,Spiderman,8.75,0,0,0,8.75,0,0,0,0,0,exclusivo,0,0,4.41
+Nintendo,intro,#na,presentacion,2.13,0,2.13,0,0,0,0,0,0,0,#na,0,0,0
+Nintendo,company_pitch,#na,Marca Nintendo,1.05,1.05,0,0,0,0,0,0,0,0,#na,0,0,0
+Nintendo,juego,franquicia,Xenoblade Chronicles 2,2.93,0,0,2.93,0,0,0,0,0,0,exclusivo,0,0,0.16
+Nintendo,juego,franquicia,Kirby,1.42,0,0,1.42,0,0,0,0,0,0,exclusivo,0,0,0.97
+Nintendo,company_pitch,#na,Marca Nintendo,1.13,1.13,0,0,0,0,0,0,0,0,#na,0,0,0
+Nintendo,juego,franquicia,Pokemon,1.08,1.08,0,0,0,0,0,0,0,0,exclusivo,0,0,0
+Nintendo,company_pitch,#na,Marca Nintendo,0.6,0.6,0,0,0,0,0,0,0,0,#na,0,0,0
+Nintendo,juego,franquicia,Metroid Prime 4,0.72,0,0.72,0,0,0,0,0,0,0,exclusivo,0,0,0
+Nintendo,juego,franquicia,Yoshi,1.43,0,0,1.43,0,0,0,0,0,0,exclusivo,0,0,1.07
+Nintendo,juego,franquicia,Fire Emblem Warriors,1.63,0,0,1.63,0,0,0,0,0,0,exclusivo,0,0,0
+Nintendo,dlc,franquicia,Zelda Breath of The Wild,4.09,1.27,0,0,2.82,0,0,0,0,0,exclusivo,0,0,1.3
+Nintendo,company_pitch,#na,Marca Nintendo,1.72,1.72,0,0,0,0,0,0,0,0,#na,0,0,0
+Nintendo,juego,franquicia,Mario + Rabbids Kingdom Battle,0.97,0.3,0.67,0,0,0,0,0,0,0,exclusivo,0,0,0.3
+Nintendo,juego,franquicia,Rocket League,1.71,1.08,0.63,0,0,0,0,0,0,0,multi,0,0,0
+Nintendo,juego,franquicia,Super Mario Odyssey,2.47,0,0,2.47,0,0,0,0,0,0,exclusivo,0,0,1.28
